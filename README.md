@@ -27,6 +27,15 @@
   <a href="https://www.linkedin.com/in/antonio-victor-oliveira-borges-4a2852228" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  ![snake gif](https://github.com/DevVictor19/DevVictor19/blob/output/github-contribution-grid-snake.gif)
 </div>
 
+ <div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="github.com/DevVictor19/DevVictor19/blob/output/github-contribution-grid-snake.gif">
+  <br>
+  <br>
+  <br>
+</div>
+  
+  
