@@ -26,10 +26,10 @@
 ## Learning
 <div style="display: inline_block"><br>
   <img align="center" alt="Antonio-node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Antonio-express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
   <img align="center" alt="Antonio-redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Antonio-mongo" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Antonio-mysql" height="50" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Antonio-express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
 </div>
 <br>
   
